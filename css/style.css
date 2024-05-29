@@ -1,0 +1,23 @@
+
+
+.photo{
+    height: auto;
+    width: 90px;
+    margin: 100px auto 30px;
+}
+
+img{
+    text-align: center;
+}
+
+.questions{
+    height: auto;
+    width: 920px;
+    text-align: center;
+    margin: 0px auto;
+}
+
+button{
+    margin: 10px 0px 10px 10px;
+}
+
