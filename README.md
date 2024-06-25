@@ -22,4 +22,3 @@
     <li>Depois disso tudo, basta apenas clicar em "submeter/enviar</li>
   </ol>
   
-## Como o Usar o Sistema - 
